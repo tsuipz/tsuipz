@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Patrick Tsui, a Front End Engineer.
+- 👀 I’m interested in Volleyball, Video Games, and everything involving the front end world.
+- 🌱 I’m currently learning React and Typescript.
